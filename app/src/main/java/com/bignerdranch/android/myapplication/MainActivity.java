@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     JSONArray jsonArray;
 
 
-
+ㅗ
     ///////////////////////////////////////////////////////////////
 
     String[] PERMISSIONS = { //위치권한 배열
